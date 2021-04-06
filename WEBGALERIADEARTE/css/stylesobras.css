@@ -1,0 +1,305 @@
+body{
+   
+    background-image: url('/imagenes/pexels-steve-johnson-2144341.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:  300px;
+  
+}
+.head{
+    background-color:rgba(10, 10, 10, 0.712);
+    height:  100px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    float: left; 
+    position: relative;
+  
+    
+    
+}
+
+.contenedortl{
+    background-color:0;
+    width: 50%;
+    height: 100%;
+    
+    float:left;
+    margin-left: 16%;
+    margin-top: 20px;
+    
+   
+    
+
+}
+.logo{
+    background-image:url('../imagenes/chapoteo.png') ;
+    background-size: contain;
+    position: absolute;
+    
+    width: 70px;
+    height: 70px;
+    margin-right: auto;
+    margin-left: auto;
+   
+}
+.titulop{
+    background-color:0;
+    
+    
+    color:#0C8EF7;
+    font-size: 40px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    float: left;
+    width: 80%;
+    position: absolute;
+    
+    margin-right: auto;
+    margin-left: auto;
+
+
+}
+
+
+
+.main{
+    background-color:0;
+    height: 800px;
+    
+   
+    
+}
+.cont{
+    width: 60%;
+    color:rgba(255, 255, 255, 0.712);
+    font-size: 60px;
+    height: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:0;
+    padding-left: 50px;
+    padding-top: 30px ;
+    text-align: center;
+    
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    
+    
+}
+.cont1{
+    width: 40%;
+    color:rgb(26, 26, 26);
+    font-size: 20px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:white;
+    
+    padding: 5px;;
+    text-align: center;
+    
+    
+    
+    
+}
+.cont2{
+    width: 100%;
+    color:rgb(2, 2, 2);
+    height: 500px;
+    margin-left:auto ;
+    background-color:rgb(238, 238, 238);
+    font-size: 50px;
+    margin-top: 150px;
+    padding-left: 10px ;
+    padding-top: 100px;
+    padding-right: 40px;
+    text-align: center;
+    
+    
+
+    
+    
+    
+    
+}
+.contenedortgale{
+    background-color:yellowgreen;
+    width: 400px;
+    height: 360px;
+    
+    float:left;
+    margin-left: 5%;
+    margin-top: 20px;
+
+}
+.galeria{
+    background-image:url('../imagenes/gioconda.png') ;
+    width: 400px;
+    height: 400px;
+    float:left;
+    position: relative;
+    
+
+}
+
+.text2{
+    width: 100%;
+    color:rgb(10, 10, 10);
+    height: 400px;
+    margin-left: auto;
+    
+    background-color:#0C8EF7;
+    text-align: left;
+    font-size: 50px;
+    padding-left: 40px ;
+    padding-top: 100px;
+    
+    
+    
+    
+    
+    
+}
+.contenedortpintores1{
+    background-color:yellowgreen;
+    width: 500px;
+    height: 300px;
+    
+    float:left;
+    margin-left: 60%;
+    margin-top: -320px;
+}
+.pintor{
+    background-image:url('../imagenes/nocheestrellada.png') ;
+    width: 500px;
+    height: 357px;
+    float:left;
+    position: relative;}
+.text3{
+    width: 100%;
+    color:rgb(20, 20, 20);
+    height: 400px;
+    margin-right: auto;
+    background-color:rgb(253, 253, 253);
+    background-image: url('../');
+    
+    padding-left: 20px ;
+    padding-top: 20px;
+    text-align: center;
+    font-size: 50px;
+    
+    
+}
+.contenedorvisita{
+    background-color:yellowgreen;
+    width: 450px;
+    height: 300px;
+    
+    float:left;
+    margin-left: 5%;
+    margin-top: 20px;
+
+}
+.visita{
+    background-image:url('../imagenes/pablo-picasso-guernica-kvdC--510x286@abc.png') ;
+    width: 450px;
+    height: 300px;
+    float:left;
+    
+
+}
+.autor4{
+    width: 100%;
+    color:rgb(10, 10, 10);
+    height: 470px;
+    margin-left: auto;
+    
+    background-color:#0C8EF7;
+    text-align: left;
+    font-size: 50px;
+    padding-left: 50px ;
+    padding-top: 100px;
+
+    
+    
+    
+    
+    
+}
+.contenedorautor4{
+    background-color:yellowgreen;
+    width: 600px;
+    height: 250px;
+    
+    float:left;
+    margin-left: 53%;
+    margin-top: -10px;
+}
+.salvador{
+    background-image:url('../imagenes/last-supper-4997322_640.png') ;
+    width: 600px;
+    height: 250px;
+    float:left;
+    position: relative;}
+    .autor5{
+        width: 100%;
+        color:rgb(20, 20, 20);
+        height: 600px;
+        margin-right: auto;
+        background-color:rgb(253, 253, 253);
+        background-image: url('../');
+        
+        padding-left: 20px ;
+        padding-top: 20px;
+        text-align: center;
+        font-size: 50px;
+        
+        
+    }
+    .contenedorautor5{
+        background-color:yellowgreen;
+        width: 450px;
+        height: 500px;
+        
+        float:left;
+        margin-left: 5%;
+        margin-top: 20px;
+    
+    }
+    .john{
+        background-image:url('../imagenes/39b82ecf832602384fe6b42e468ee75b.png') ;
+        width: 450px;
+        height: 510px;
+        float:left;
+        
+    
+    }
+
+    
+
+
+nav{
+    background-color:0;
+    float:right;
+    margin-top: 50px;
+    margin-right: 40px;
+}
+ul{
+    background-color:0;
+    
+}
+li{
+    background-color: 0;
+    margin-top: 5px;
+    display: inline;
+    
+    
+    
+}
+a{
+    color:#0C8EF7;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, Impact, Haettenschweiler, 'Arial Narrow Bold', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    margin-right: 30px;
+    font-size: 15px;
+}
